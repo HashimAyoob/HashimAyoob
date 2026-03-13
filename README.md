@@ -40,11 +40,11 @@ Welcome to my GitHub! I am a passionate web developer with a year of freelance e
 </p>
 
 ### 💼 Highlighted Projects
-*🧠 **Patient Monitoring System (PMS):** A real-time CNN model built with Python that predicts patient facial emotions (Angry, Disgusted, Neutral, Happy, Sad, Pain) and triggers immediate alerts when pain is detected.
-*📊 **Zeti Manage:** A comprehensive room booking management system and custom Content Management System (CMS) designed for personalized websites.
-*🏫 **Eldora Educational Consultancy:** Designed and developed a complete business website from the ground up, including branding and content generation.
-*🛒 **Lucky Marbles E-Commerce:** Built a custom WooCommerce platform for a marble and granite export business.
-*🤖 **WhatsApp Booking Bot:** Developed an automated WhatsApp bot to streamline booking services and handle client inquiries.
+* 🧠 **Patient Monitoring System (PMS):** A real-time CNN model built with Python that predicts patient facial emotions (Angry, Disgusted, Neutral, Happy, Sad, Pain) and triggers immediate alerts when pain is detected.
+* 📊 **Zeti Manage:** A comprehensive room booking management system and custom Content Management System (CMS) designed for personalized websites.
+* 🏫 **Eldora Educational Consultancy:** Designed and developed a complete business website from the ground up, including branding and content generation.
+* 🛒 **Lucky Marbles E-Commerce:** Built a custom WooCommerce platform for a marble and granite export business.
+* 🤖 **WhatsApp Booking Bot:** Developed an automated WhatsApp bot to streamline booking services and handle client inquiries.
 
 
 
