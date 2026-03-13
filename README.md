@@ -50,8 +50,8 @@ Welcome to my GitHub! I am a passionate web developer with a year of freelance e
 
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hashim-ayoob-655a111a6)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashayoob2@gmail.com.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashim-ayoob-655a111a6)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashayoob2@gmail.com)
 
 ---
 ⭐️ *From [HashimAyoob](https://github.com/HashimAyoob)*
