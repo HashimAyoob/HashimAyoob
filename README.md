@@ -7,11 +7,13 @@ Welcome to my GitHub! I am a passionate web developer with a year of freelance e
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HashimAyoob&show_icons=true&theme=radical&hide_border=true" alt="Hashim's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashimAyoob&theme=radical&hide_border=true" alt="Hashim's GitHub Streak" />
+  <img src="https://ghchart.rshah.org/HashimAyoob" alt="Hashim's Contribution Chart" />
 </div>
 
+<br>
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HashimAyoob&show_icons=true&theme=radical&hide_border=true" alt="Hashim's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashimAyoob&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
