@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Freelance Web Developer | Computer Science Graduate
 
-Welcome to my GitHub! I am a passionate web developer with a year of freelance experience building practical, client-focused solutions. I love turning complex problems into intuitive digital experiences and am constantly expanding my toolkit. 
+Welcome to my GitHub! I am a passionate web developer with 2 years of freelance experience building practical, client-focused solutions. I love turning complex problems into intuitive digital experiences and am constantly expanding my toolkit. 
 
 ### 📊 GitHub Stats
 
